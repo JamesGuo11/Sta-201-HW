@@ -6,9 +6,13 @@ Hi, I'm James, a senior student of DKU majoring in Applied Math!
 ## Project Information
 
 Author: Runkun Guo, Applied Mathematics and Computational Science, Class 2023, Duke Kunshan University
+
 Instructor: Prof. Luyao Zhang, Duke Kunshan University
+
 Disclaimer: Submissions to the Problem Set 1 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+
 Acknowledgments: I would like to thank Prof. Luyao Zhang for her instructions on STATS201 and all the help from my classmates.
+
 Projects: Problem Set 1 and NLP
 
 ## Sample Course Projects
