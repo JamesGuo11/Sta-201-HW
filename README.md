@@ -10,10 +10,10 @@ Hi, I'm James, a senior student of DKU majoring in Applied Math!
 [NLP](https://github.com/JamesGuo11/Sta-201-PS-Runkun_Guo/blob/main/Problem_Set_2_Runkun_Guo_ipynb”.ipynb)
 
 ## Data
-[Data Diabetes] (
+[Data Diabetes](https://github.com/JamesGuo11/Sta-201-PS-Runkun_Guo/blob/main/Sta201HW2data.csv)
 
 ## Code
-[NLP Diabetes] (
+[NLP Diabetes](https://github.com/JamesGuo11/Sta-201-PS-Runkun_Guo/blob/main/Problem_Set_2_Runkun_Guo_ipynb”.ipynb)
 
 ## Spotlight
 
