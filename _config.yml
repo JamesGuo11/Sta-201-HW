@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: RunkunGuo
+description: The page of RukunGuo's STATS201 Introduction to Machine Learning for Social Science Final Project
