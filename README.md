@@ -42,4 +42,16 @@ Hi, I'm James, a senior student of DKU majoring in Applied Math!
 
 ## References
 
+Nakagawa, K., Imamura, M., & Yoshida, K. (2019). Stock price prediction using k‐medoids clustering with indexing dynamic time warping. Electronics and Communications in Japan, 102(2), 3-8. https://doi.org/10.1002/ecj.12140
 
+An, Y., & Chan, N. H. (2017). Short‐Term stock price prediction based on limit order book dynamics. Journal of Forecasting, 36(5), 541-556. https://doi.org/10.1002/for.2452
+
+Ghorbani, M., & Chong, E. K. P. (2020). Stock price prediction using principal components. PloS One, 15(3), e0230124-e0230124. https://doi.org/10.1371/journal.pone.0230124
+
+Wu, J. M., Li, Z., Srivastava, G., Tasi, M., & Lin, J. C. (2021). A graph‐based convolutional neural network stock price prediction with leading indicators. Software, Practice & Experience, 51(3), 628-644. https://doi.org/10.1002/spe.2915
+
+Stoean, C., Paja, W., Stoean, R., & Sandita, A. (2019). Deep architectures for long-term stock price prediction with a heuristic-based strategy for trading simulations. PloS One, 14(10), e0223593-e0223593. https://doi.org/10.1371/journal.pone.0223593
+
+Polamuri, S. R., Srinivas, D. K., & Krishna Mohan, D. A. (2022). Multi-model generative adversarial network hybrid prediction algorithm (MMGAN-HPA) for stock market prices prediction. Journal of King Saud University. Computer and Information Sciences, 34(9), 7433-7444. https://doi.org/10.1016/j.jksuci.2021.07.001
+
+Banerjee, S., & Mukherjee, D. (2022). Short term stock price prediction in indian market: A neural network perspective. Studies in Microeconomics, 10(1), 23-49. https://doi.org/10.1177/2321022220980537
