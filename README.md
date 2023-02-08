@@ -67,3 +67,9 @@ Stoean, C., Paja, W., Stoean, R., & Sandita, A. (2019). Deep architectures for l
 Polamuri, S. R., Srinivas, D. K., & Krishna Mohan, D. A. (2022). Multi-model generative adversarial network hybrid prediction algorithm (MMGAN-HPA) for stock market prices prediction. Journal of King Saud University. Computer and Information Sciences, 34(9), 7433-7444. https://doi.org/10.1016/j.jksuci.2021.07.001
 
 Banerjee, S., & Mukherjee, D. (2022). Short term stock price prediction in indian market: A neural network perspective. Studies in Microeconomics, 10(1), 23-49. https://doi.org/10.1177/2321022220980537
+
+
+|Data Files                   | Data Content                                             | logo                                       | 
+|:---      |   :---:     |     ---:|
+|[blocks_QuickNode.csv](https://github.com/JamesGuo11/Sta-201-PS-Runkun_Guo/files/10683558/blocks_QuickNode.csv)| Ethereum Blockchain data for .. token| 123 |
+
